@@ -1,0 +1,194 @@
+[
+{
+    "question" : "What is the illuminance of a spotlight that has a luminous flux of 1750lm and is 2.5m away from the ground?",
+    "a": "26lx",
+    "b": "40lx",
+    "c": "0.9lx",
+    "d": "22.3lx",
+    "answer": "d"
+},
+{
+    "question" : "Rank the following colors of light according to their frequency, from least to greatest: (green, red, violet, indigo, orange)",
+    "a": "Red, Orange, Green, Indigo, Violet",
+    "b": "Violet, Indigo, Green, Orange, Red",
+    "c": "Red, Orange, Green, Indigo, Volet",
+    "d": "Red, Green, Orange, Violet, Indigo",
+    "answer": "a"
+},
+{
+    "question" : "Two polarizing filters are placed infront of a light if the axis of the two filters are perpendicular to each other, how much light is blocked by them?",
+    "a": "100$",
+    "b": "1.333333%",
+    "c": "100%",
+    "d": "0%",
+    "answer": "c"
+},
+{
+    "question" : "On a concave mirror, if an object is on the focal point where would the image be?",
+    "a": "Inverted and at the focal point",
+    "b": "Between the focal point and the center",
+    "c": "Between the focal point and the mirror",
+    "d": "At infinity",
+    "answer": "d"
+},
+{
+    "question" : "A laser beam in ethanol(n = 1.36) enters air at an angle of incidence of 37. What is the angle of refraction?",
+    "a": "55",
+    "b": "37",
+    "c": "26.2",
+    "d": "0",
+    "answer": "a"
+},
+{
+    "question" : "A public school law requires a minimum illuminance of 160lx at the surface of each student’s desk. An architect’s specifications call for classroom lights to be located 2m above the desks. What is the  minimum luminous flux that the lights must produce?",
+    "a": "8042ln",
+    "b": "790lm",
+    "c": "8042lm",
+    "d": "2.099lm",
+    "answer": "c"
+},
+{
+    "question" : "The bending of light as it passes an edge of a barrier is known as _______ ",
+    "a": "Diffraction",
+    "b": "Polarization",
+    "c": "Reflection",
+    "d": "Difraction",
+    "answer": "a"
+},
+{
+    "question" : "You place an object near a concave mirror with a 10cm focal length. The image is 3cm tall, inverted, and 16cm away from the mirror. What are the object's position and hight?",
+    "a": "x(object)= 26.7cm, h(object)= 5cm",
+    "b": "x(object)= 30cm, h(object)= 5cm",
+    "c": "x(object)= 26.7cm, h(object)= 6m",
+    "d": "x(object)= 26.7m, h(object)= 5m",
+    "answer": "a"
+},
+{
+    "question" : "A block of a transparent material is submerged in water. Light in the water enter the block at an angle of incidence of 31°.The angle of refraction of the light in the block is 27. What is the index of refraction of the material of the block?",
+    "a": "n(2)= 1.0003, Aiz",
+    "b": "n(2)= 1.0003, Air",
+    "c": "n(1)= 3, Water",
+    "d": "n(2)= 1.54, Quartz",
+    "answer": "d"
+},
+{
+    "question" : "Distance of a Light Source A lightbulb illuminating your computer keyboard provides only half the illuminance that it should. If it is currently 1.0 m  away, how far should it be to provide the correct illuminance?",
+    "a": "0.6m",
+    "b": "1m",
+    "c": "8m",
+    "d": "0.71m",
+    "answer": "d"
+},
+{
+    "question" : "Unpolarized light with the intensity of 1.88W/m^2 passes through two polarizers. The emerging polarized light has an intensity of 0.38W/m^2. What is the angle between the two polarizers?",
+    "a": "15",
+    "b": "30",
+    "c": "49",
+    "d": "50.4",
+    "answer": "d"
+},
+{
+    "question" : "On concave mirror,if the object is between the center and the focal point where would the image be?",
+    "a": "virtual, behind the mirror",
+    "b": "inverted, beyond the center and real",
+    "c": "On the focal point",
+    "d": "All of the above",
+    "answer": "b"
+},
+{
+    "question" : "Red and Blue make?",
+    "a": "magenta",
+    "b": "lavender",
+    "c": "cement grey",
+    "d": "Green",
+    "answer": "a"
+},
+{
+    "question" : "A light ray is moving from a denser medium to a less denser medium. What would happen to the angle of incident?",
+    "a": "It will decrease",
+    "b": "It will increase",
+    "c": "It will stay the same",
+    "d": "None of the above",
+    "answer": "b"
+},
+{
+    "question" : "An observer stands 3m from a light source. The brightness of the light at the distance is 12lx. What is the intensity of the light?",
+    "a": "108cd",
+    "b": "110cd",
+    "c": "50cd",
+    "d": "17cd",
+    "answer": "a"
+},
+{
+    "question" : "A convex mirror has a focal length of -13cm. You place a 6cm diameter light bulb 60cm away from that mirror. What is the lightbulb's image position and diameter?",
+    "a": "x(i)= 11m, n(i)= 0.5m",
+    "b": "x(i)= 5m, n(i)= 9m",
+    "c": "x(i)= 15cm, n(i)= 1.07cm",
+    "d": "x(i)= 10.68cm, n(i)= 1.07cm",
+    "answer": "d"
+},
+{
+    "question" : "Which answer describes 'total internal reflection' the best?",
+    "a": "When the angle of incidence equals the angle of refraction",
+    "b": "The bending of light as it passes from a less dense to a denser medium.",
+    "c": "The bending of light as it passes from a denser to a less dense medium at an angle greater than the critical angle.",
+    "d": "When light reflects off a mirrored surface with no loss of energy.",
+    "answer": "c"
+},
+{
+    "question" : "The brightness of the light see by observer A is three times the brightness of the light seen by observer B. Observer B is 4m away from the light, how far is observer A from the light?",
+    "a": "r(B)= 2.3m",
+    "b": "r(A)= 5m",
+    "c": "r(A)= 3m",
+    "d": "r(A)= 2.3m",
+    "answer": "d"
+},
+{
+    "question" : "A 1.8m tall girl stands 2.4m from a store's security. Her image seems to be 0.36m tall. What is the focal length on the mirror?",
+    "a": "f= -3m",
+    "b": "f= -8m",
+    "c": "f= 2m",
+    "d": "f= -0.6m",
+    "answer": "d"
+},
+{
+    "question" : "What are pigments made from?",
+    "a": "Plants",
+    "b": "Bugs",
+    "c": "Insects",
+    "d": "Minerals",
+    "answer": "d"
+},
+{
+    "question" : "On a concave mirror, if an object is between the focal point and the mirror. Where would the image be?",
+    "a": "On the focal point",
+    "b": "Behind the mirror, virtual, enlarged",
+    "c": "On the center",
+    "d": "Behind the mirror, real, enlarged",
+    "answer": "b"
+},
+{
+    "question" : "If a light from a dense medium enters a denser medium, what would happen to the angle of incident?",
+    "a": "Nothing will happen",
+    "b": "It will remain the same",
+    "c": "It will increase",
+    "d": "It will decrease",
+    "answer": "d"
+},
+{
+    "question" : "The study of light is called ________",
+    "a": "Ray optic",
+    "b": "none of the above",
+    "c": "Geometric optic",
+    "d": "a & c",
+    "answer": "d"
+},
+{
+    "question" : "Mixing yellow and cyan make ________",
+    "a": "Green",
+    "b": "Blue",
+    "c": "Black",
+    "d": "Magenta",
+    "answer": "a"
+}
+]
