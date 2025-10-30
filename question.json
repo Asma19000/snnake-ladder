@@ -109,7 +109,7 @@
     "b": "It will increase",
     "c": "It will stay the same",
     "d": "None of the above",
-    "answer": "b"
+    "answer": "c"
 },
 {
     "question" : "An observer stands 3m from a light source. The brightness of the light at the distance is 12lx. What is the intensity of the light?",
@@ -168,7 +168,7 @@
     "answer": "b"
 },
 {
-    "question" : "If a light from a dense medium enters a denser medium, what would happen to the angle of incident?",
+    "question" : "If a light from a dense medium enters a denser medium, what would happen to the angle of refraction?",
     "a": "Nothing will happen",
     "b": "It will remain the same",
     "c": "It will increase",
